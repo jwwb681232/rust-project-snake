@@ -1,0 +1,6 @@
+[package]
+name = "rust-project-snake"
+version = "0.1.0"
+authors = ["wangxiao <wx497657341@qq.com>"]
+
+[dependencies]
